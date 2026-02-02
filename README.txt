@@ -9,3 +9,5 @@ create_db - reads a tar.gz file and creates a database of files, their
  positions and data needed to resume decompression from there
 
 read_db - extracts a file using ^
+
+see also: https://github.com/circulosmeos/gztool
